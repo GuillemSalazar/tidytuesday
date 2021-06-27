@@ -1,4 +1,4 @@
-Code and plots for the #tidytuesday challenge
+Code and plots for the [#tidytuesday](https://github.com/rfordatascience/tidytuesday) challenge
 
 ## Year 2021
 
